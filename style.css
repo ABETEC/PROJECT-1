@@ -1,0 +1,21 @@
+* {
+    margin: o;
+    padding: ;
+}
+
+.menu-bar {
+    min-height: 8%;
+    background: #7ed957
+}
+
+.menu-bar img {
+    width: 150px;
+}
+
+.nav-link:hover {
+    color: #ff9858
+}
+
+.nav-link {
+    color: #000000
+}
